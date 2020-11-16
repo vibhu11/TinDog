@@ -1,0 +1,144 @@
+#title{
+    background-color: #ff4c66;
+    padding: 3% 20%;
+    color: white;
+}
+
+body {
+    font-style: italic;
+}
+
+.navbar-brand {
+    font-size: 2.5rem;
+    font-weight: bold;
+    
+}
+.nav-item {
+    padding: 0 8px;
+}
+
+.Download-buttons {
+    margin: 5% 3% 5% 0;
+}
+.tittle-image {
+    width: 60%;
+    transform: rotate(30deg);
+    position: absolute;
+    right: 26%;
+    bottom: -12rem;
+}
+.row {
+    padding-top: 10%;
+}
+#features{
+    padding: 7% 15%;
+    background-color: white;
+    position: relative;
+    z-index: 1;
+}
+.feature-box{
+    text-align: center;
+    padding: 0 5%;
+}
+h3 {
+    font-style: italic;
+}
+
+p {
+    color: grey;
+}
+.icon {
+    color: #b6ab49;
+    padding-bottom: 5%;
+}
+
+.icon:hover {
+     color: #ff4c66;
+}
+ /* testimonials */
+ #testimonials {
+     
+     text-align: center;
+     background-color: #ff4c66;
+     color: white;
+ }
+
+ .testimonial-image {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+     
+ }
+
+ #press {
+    background-color: #ff4c66;
+    text-align: center;
+    padding-bottom: 3%;
+
+ }
+
+.press-logo {
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+.carousel-item {
+    padding: 7% 15%;
+
+}
+
+#pricing {
+    padding: 100px;
+    text-align: center;
+}
+
+.pricing-column{
+    padding: 2% 3%;
+    border: solid;
+}
+
+
+#cta {
+    background-color:#ff4c66 ;
+    text-align: center;
+}
+
+.alalalal {
+    margin-bottom: 3.6rem;
+}
+.dog-pricing {
+    padding: 7% 15%;
+}
+#footer{
+    text-align: center;
+    height: 210px;
+    padding-top: 7rem;
+    
+}
+.copyrighttt {
+    color: teal;
+}
+.smedia{
+    margin: 5px 1.1rem;
+}
+
+@media (max-width: 1028px) {
+    #title {
+        text-align: center;
+    }
+    
+    .tittle-image{
+        position: static;
+        transform: rotate(0);
+    }
+
+}
+
+
+
+
+
+    
+    
+    
+
+
